@@ -1,0 +1,26 @@
+ROV 2.0 (Marine Exploration)
+3D printed drone
+
+Smart phone(App?)
+Arm Cortex M-4 ((2+1) propellers + Lights)
+VR Box, Raspberry Pi-3 B+(Noise Reduction), Camera 4K 
+Ph-Sensor, Oxygen lvl, Mercury lvl
+Ultra-Sound(?), Gyroscope(?), Accelero-meter(?)
+
+
+ROV 3.0
+AI - ?????? 
+wifi transmission --> Privet Server --> User Access.
+Cloud Storage --> 
+
+
+GPS(Working??)
+
+
+azw3 to pdf
+
+
+Joystick---> BLDC controller!!!!
+
+
+
